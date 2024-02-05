@@ -28,7 +28,3 @@ cats_data = get_cats_info(r"D:\\cats.txt")
 
 for cat in cats_data:
     print(cat)
-
-
-
-
